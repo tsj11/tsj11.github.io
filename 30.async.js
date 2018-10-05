@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[30],{bRYN:function(e,n,t){"use strict";var o=t("TqRt");Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u=o(t("q1tI")),a=function(){return u.default.createElement("div",null,"Coming soon...")};n.default=a}}]);
